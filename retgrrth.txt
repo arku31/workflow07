@@ -5,3 +5,9 @@ developer2
 dsgsdhggghj
 
 sdfdfg
+
+Ctrl+k
+Ctrl+enter
+
+Ctrl+shift+K
+Ctrl+enter
